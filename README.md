@@ -32,3 +32,18 @@
       <img src="https://play-lh.googleusercontent.com/EBcNQ2BKeUXRYtX_r-SPrZaq4Db5NeWMiwY_00Zod_t7eGDCeCJelm8oZtjwgnBVkP8=w2560-h1440-rw" width="32%">
       <img src="https://play-lh.googleusercontent.com/O1qKP0rv8WUv_PTkUtHJ_4laXtDC3xunGxTGcRgw4YTVzs2Ql_H2Jehqc6NtSpzkyJI=w2560-h1440-rw" width="32%">
 </div>
+
+## Веб-сайт лендинг на Flutter (adsscode.com)
+Адаптивный одностраничный веб-сайт, презентующий проекты и услуги компании.
+
+- [Ссылка на веб-сайт](https://adsscode.com)
+- [Git репозиторий](https://github.com/DevTriangle/web_code)
+
+## Приложение для взаимодействия между студентами
+Кроссплатформенное приложение для удобного взаимодействия между студентами. Функционал приложения похож на Google Classroom.
+Приложение позволяет создавать курсы, отпавлять файлы, выставлять оценки. Возможно общение в реальном времени с помощью чата.
+
+## Приложение для ювелирного магазина
+Кроссплатформенное приложение с возможностью просмотра ювелирных товаров и добавления их в корзину.
+
+[Git репозиторий](https://github.com/DevTriangle/jewelry)
