@@ -22,6 +22,7 @@
 
 У каждого события можно включить таймер, который показывает сколько времени осталось до наступления события.
 
+Приложение доступно на двух языках: английский и русский.
 - [Приложение в Google Play](https://play.google.com/store/apps/details?id=com.itadss.todo.todo_app&hl=ru)
 - [Приложение в App Store](https://apps.apple.com/ru/app/%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%8C-%D0%B4%D0%BE/id6446589517)
 - [Git репозиторий](https://github.com/DevTriangle/todo_app)
