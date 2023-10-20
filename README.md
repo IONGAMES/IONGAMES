@@ -58,7 +58,7 @@
 ## Приложение для ювелирного магазина
 Кроссплатформенное приложение с возможностью просмотра ювелирных товаров и добавления их в корзину.
 
-[Git репозиторий](https://github.com/DevTriangle/jewelry)
+- [Git репозиторий](https://github.com/DevTriangle/jewelry)
 
 <div>
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114134_638.jpg?token=GHSAT0AAAAAACIJ3W5QIKLB6JA67ABXNRWCZJSH6AA" width="24%"/>
@@ -70,3 +70,13 @@
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114121_098.jpg?token=GHSAT0AAAAAACIJ3W5RK7RN6EQUF4WYJYPUZJSH5KA" width="24%"/>
       <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114118_422.jpg?token=GHSAT0AAAAAACIJ3W5RV6CTQOEUQXAUB5AUZJSH3UA" width="24%"/>
 </div>
+
+## Приложение для планирования путешествий
+Приложение помогает собрать багаж для путешествий по разным странам. Также можно посмотреть актуальную погоду любого города и точные курсы валют.
+
+- [Git репозиторий](https://github.com/DevTriangle/journeys_app)
+
+## Приложение для строительной компании 
+В приложении можно посмотреть информацию о готовых постройках, доступных материалах, списки строителей и т.д.
+
+- [Git репозиторий](https://github.com/DevTriangle/building_app)
