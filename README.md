@@ -43,6 +43,18 @@
 Кроссплатформенное приложение для удобного взаимодействия между студентами. Функционал приложения похож на Google Classroom.
 Приложение позволяет создавать курсы, отпавлять файлы, выставлять оценки. Возможно общение в реальном времени с помощью чата.
 
+<div>
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113600_385.jpg" width="49%">
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113556_690.jpg" width="49%">
+</div>
+<div>
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113609_661.jpg" width="49%">
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113615_914.jpg" width="49%">
+</div>
+<div>
+      <img src="https://github.com/DevTriangle/DevTriangle/blob/main/classroom/IMG_20231020_113617_799.jpg" width="100%">
+</div>
+
 ## Приложение для ювелирного магазина
 Кроссплатформенное приложение с возможностью просмотра ювелирных товаров и добавления их в корзину.
 
