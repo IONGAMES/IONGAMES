@@ -47,3 +47,14 @@
 Кроссплатформенное приложение с возможностью просмотра ювелирных товаров и добавления их в корзину.
 
 [Git репозиторий](https://github.com/DevTriangle/jewelry)
+
+<div>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114134_638.jpg?token=GHSAT0AAAAAACIJ3W5QIKLB6JA67ABXNRWCZJSH6AA" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114132_498.jpg?token=GHSAT0AAAAAACIJ3W5QQZGFE6T775MUXYF4ZJSH54Q" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114127_197.jpg?token=GHSAT0AAAAAACIJ3W5RJBB5JKAU34VVAV5QZJSH5YQ" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114123_739.jpg?token=GHSAT0AAAAAACIJ3W5RL7K2K2LNGA3EHJJAZJSH5SQ" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114122_555.jpg?token=GHSAT0AAAAAACIJ3W5RMA2CDBUMXNLNZBSSZJSH5NQ" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114124_899.jpg?token=GHSAT0AAAAAACIJ3W5RAQHZPNAOMAQR3UMIZJSH5VQ" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114121_098.jpg?token=GHSAT0AAAAAACIJ3W5RK7RN6EQUF4WYJYPUZJSH5KA" width="24%"/>
+      <img src="https://raw.githubusercontent.com/DevTriangle/jewelry/main/images/IMG_20231020_114118_422.jpg?token=GHSAT0AAAAAACIJ3W5RV6CTQOEUQXAUB5AUZJSH3UA" width="24%"/>
+</div>
