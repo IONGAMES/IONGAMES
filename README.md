@@ -33,6 +33,20 @@
       <img src="https://play-lh.googleusercontent.com/O1qKP0rv8WUv_PTkUtHJ_4laXtDC3xunGxTGcRgw4YTVzs2Ql_H2Jehqc6NtSpzkyJI=w2560-h1440-rw" width="32%">
 </div>
 
+## Приложение МАСТЕР
+МАСТЕР - мобильное приложение, разработанное для удобного поиска и управления заявками по ремонту. Оно предоставляет функционал, который позволяет пользователям быстро и эффективно находить  необходимые заказы на ремонтные работы. Одной из главных фишек приложения «МАСТЕР» является его способность принимать заявки на выполнение работ в различных сферах ремонта.
+
+Приложение доступно в следующих магазинах:
+- [Приложение в Google Play](https://play.google.com/store/apps/details?id=com.adsscode.master)
+- [Приложение в App Store](https://apps.apple.com/us/app/%D0%BC%D0%BC-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80/id6473836988)
+
+<div>
+      <img src="https://play-lh.googleusercontent.com/Gi_3fsz4WNKuNA3ReQtAU34OYuTKCT7a2crD6AnbY8mR-42Rx_VPx9lSRep86yYPxFo=w2560-h1440-rw" width="24%">
+      <img src="https://play-lh.googleusercontent.com/zIUqoXSMXdvz7xpWJuUeA41cXYlSSf0msoLpJgw_pwKlGDVu4JXJUDH9StmitsB6Ybg=w2560-h1440-rw" width="24%">
+      <img src="https://play-lh.googleusercontent.com/UwDSUQU62mvJzE8uDhpaYxqAGZ8x4wHzaB2PBMiw1x57Np6WO07SI_9KWRGpCSfoaowu=w2560-h1440-rw" width="24%">
+      <img src="https://play-lh.googleusercontent.com/3Cu8eFd9XfRGlp666U7Kc5L0yDtIYd27gFkEEOKcf7OjLQ1CBrByf4wvBih-eTKH3SsX=w2560-h1440-rw" width="24%">
+</div>
+
 ## Веб-сайт лендинг на Flutter (adsscode.com)
 Адаптивный одностраничный веб-сайт, презентующий проекты и услуги компании.
 
